@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "starters",
+      "name": "Starters",
+      "icon": "🥗",
+      "items": ["item-1", "item-2"]
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "icon": "🥤",
+      "items": ["item-1"]
+    },
+    {
+      "id": "main-course",
+      "name": "Main Course",
+      "icon": "🍽️",
+      "items": ["item-1"]
+    }
+  ]
+}
